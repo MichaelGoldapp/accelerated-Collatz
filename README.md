@@ -1,5 +1,4 @@
-We introduce a modification of the Collatz function that shortens trajectories, reduces peak values, and suggests 
-that the average stopping time remains bounded as the starting value grows. 
+We introduce an "accelerated" version of the Collatz function that shortens trajectories, reduces peak values, and suggests that the average stopping time remains bounded as the starting value grows. 
 For a majority of starting values, a single step suffices to reach a strictly smaller integer. 
 We provide probabilistic estimates based on a first-passage heuristic model, 
 a linear composition formula, and detailed analyses for $n = 2^m - 1$ and $n = 10^m + j$.
